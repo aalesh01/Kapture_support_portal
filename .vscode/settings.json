@@ -1,0 +1,5 @@
+{
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "liveServer.settings.port": 3001,
+    "liveServer.settings.multiRootWorkspaceName": "faq-website"
+}
